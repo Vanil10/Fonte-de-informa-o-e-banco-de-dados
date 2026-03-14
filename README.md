@@ -6,4 +6,5 @@ Apresentação produzida pelo CANVA e foi apresentada de forma oral
 <img width="1533" height="859" alt="Captura de tela 2026-02-26 211539" src="https://github.com/user-attachments/assets/86f6ed23-30ed-4b1b-ac26-f5789c6ba72c" />
 
 ## Análise das despesa de SJC via Excel
+https://github.com/Vanil10/Fonte-de-informa-o-e-banco-de-dados/blob/main/despesa_funcao.xlsx
 https://github.com/Vanil10/Fonte-de-informa-o-e-banco-de-dados/blob/main/Captura%20de%20tela%202026-03-13%20222038.png
