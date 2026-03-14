@@ -8,3 +8,6 @@ Apresentação produzida pelo CANVA e foi apresentada de forma oral
 ## Análise das despesa de SJC via Excel
 https://github.com/Vanil10/Fonte-de-informa-o-e-banco-de-dados/blob/main/despesa_funcao.xlsx
 https://github.com/Vanil10/Fonte-de-informa-o-e-banco-de-dados/blob/main/Captura%20de%20tela%202026-03-13%20222038.png
+
+## Análise despesas fornecedores
+https://github.com/Vanil10/Fonte-de-informa-o-e-banco-de-dados/blob/main/fornecedores.xlsx
