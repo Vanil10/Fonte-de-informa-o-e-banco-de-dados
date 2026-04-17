@@ -21,6 +21,8 @@ https://canva.link/knpjbvxtq9ckgvc
 
 ## Certificado de curso
 [Criando_Trabalhos_Academicos_com_Ferramentas_Digitais-Certificado_digital_4028371.pdf](https://github.com/user-attachments/files/26838951/Criando_Trabalhos_Academicos_com_Ferramentas_Digitais-Certificado_digital_4028371.pdf)
+<img width="844" height="590" alt="Captura de tela 2026-04-17 165421" src="https://github.com/user-attachments/assets/b9c99bd7-28f2-4031-b3ac-94c41bbf0b8e" />
+
 
 ## Atividade - Análise e perguntas: Matrículas curso superior
 https://docs.google.com/spreadsheets/d/1_13k3Lewf_da11MbKfmc78zduNNKjTSN/edit?usp=drive_link&ouid=109776880485630832030&rtpof=true&sd=true
