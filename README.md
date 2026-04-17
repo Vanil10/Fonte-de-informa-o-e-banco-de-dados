@@ -1,5 +1,8 @@
-# Fonte-de-informa-o-e-banco-de-dados
+## Fonte-de-informação-e-banco-de-dados
 Disciplina ministrada no 1º semestre CST GPI
+
+## Olá! Me chamo Gabriel Vanil e sou estudante de GPI na FATEC de SJC.
+
 ## Apresentação em equipe usando software de design gráfico
 Apresentação produzida pelo CANVA e foi apresentada de forma oral
 [Apresentação - Banco de dados.pdf](https://github.com/user-attachments/files/25589952/Apresentacao.-.Banco.de.dados.pdf)
@@ -7,7 +10,22 @@ Apresentação produzida pelo CANVA e foi apresentada de forma oral
 
 ## Análise das despesa de SJC via Excel
 https://github.com/Vanil10/Fonte-de-informa-o-e-banco-de-dados/blob/main/despesa_funcao.xlsx
-https://github.com/Vanil10/Fonte-de-informa-o-e-banco-de-dados/blob/main/Captura%20de%20tela%202026-03-13%20222038.png
+<img width="473" height="363" alt="Captura de tela 2026-04-17 162354" src="https://github.com/user-attachments/assets/a970a67f-e796-405b-800a-a8cd6e73e169" />
 
 ## Análise despesas fornecedores
 https://github.com/Vanil10/Fonte-de-informa-o-e-banco-de-dados/blob/main/fornecedores.xlsx
+
+## Projeto de API - Proposta de vestido para casamento - apresentação oral
+https://canva.link/knpjbvxtq9ckgvc
+<img width="1366" height="768" alt="Captura de Tela (1)" src="https://github.com/user-attachments/assets/f7850cf0-d32f-4d03-8022-fc64501ba5bc" />
+
+## Certificado de curso
+[Criando_Trabalhos_Academicos_com_Ferramentas_Digitais-Certificado_digital_4028371.pdf](https://github.com/user-attachments/files/26838951/Criando_Trabalhos_Academicos_com_Ferramentas_Digitais-Certificado_digital_4028371.pdf)
+
+## Atividade - Análise e perguntas: Matrículas curso superior
+https://docs.google.com/spreadsheets/d/1_13k3Lewf_da11MbKfmc78zduNNKjTSN/edit?usp=drive_link&ouid=109776880485630832030&rtpof=true&sd=true
+<img width="667" height="453" alt="Captura de tela 2026-04-17 164852" src="https://github.com/user-attachments/assets/58923111-1875-4631-bb01-a4c08d526082" />
+
+## Tarefa - Análise e perguntas: Sinistro de veículos
+[veiculos_02-2026.xlsx alteração.xlsx](https://github.com/user-attachments/files/26839023/veiculos_02-2026.xlsx.alteracao.xlsx)
+<img width="657" height="433" alt="image" src="https://github.com/user-attachments/assets/082cb7a5-f68d-4eb5-ae50-dd6d15078f76" />
