@@ -13,7 +13,8 @@ https://github.com/Vanil10/Fonte-de-informa-o-e-banco-de-dados/blob/main/despesa
 <img width="473" height="363" alt="Captura de tela 2026-04-17 162354" src="https://github.com/user-attachments/assets/a970a67f-e796-405b-800a-a8cd6e73e169" />
 
 ## Análise despesas fornecedores
-https://github.com/Vanil10/Fonte-de-informa-o-e-banco-de-dados/blob/main/fornecedores.xlsx
+[fornecedores.xlsx](https://github.com/user-attachments/files/26845143/fornecedores.xlsx)
+<img width="937" height="296" alt="Captura de tela 2026-04-17 210227" src="https://github.com/user-attachments/assets/cdc0c822-2431-4a24-b22b-014a31cc3eb3" />
 
 ## Projeto de API - Proposta de vestido para casamento - apresentação oral
 https://canva.link/knpjbvxtq9ckgvc
