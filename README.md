@@ -20,10 +20,13 @@ https://github.com/Vanil10/Fonte-de-informa-o-e-banco-de-dados/blob/main/despesa
 https://canva.link/knpjbvxtq9ckgvc
 <img width="1366" height="768" alt="Captura de Tela (1)" src="https://github.com/user-attachments/assets/f7850cf0-d32f-4d03-8022-fc64501ba5bc" />
 
+## Atividade - Balancete de receita
+[balancete_receita2.xlsx](https://github.com/user-attachments/files/26845268/balancete_receita2.xlsx)
+<img width="988" height="359" alt="Captura de tela 2026-04-17 211310" src="https://github.com/user-attachments/assets/1884947d-3ab0-4b55-964d-3c5a252e9e10" />
+
 ## Certificado de curso
 [Criando_Trabalhos_Academicos_com_Ferramentas_Digitais-Certificado_digital_4028371.pdf](https://github.com/user-attachments/files/26838951/Criando_Trabalhos_Academicos_com_Ferramentas_Digitais-Certificado_digital_4028371.pdf)
 <img width="844" height="590" alt="Captura de tela 2026-04-17 165421" src="https://github.com/user-attachments/assets/b9c99bd7-28f2-4031-b3ac-94c41bbf0b8e" />
-
 
 ## Atividade - Análise e perguntas: Matrículas curso superior
 https://docs.google.com/spreadsheets/d/1_13k3Lewf_da11MbKfmc78zduNNKjTSN/edit?usp=drive_link&ouid=109776880485630832030&rtpof=true&sd=true
