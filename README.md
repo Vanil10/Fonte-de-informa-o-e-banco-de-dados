@@ -35,3 +35,5 @@ https://docs.google.com/spreadsheets/d/1_13k3Lewf_da11MbKfmc78zduNNKjTSN/edit?us
 ## Tarefa - Análise e perguntas: Sinistro de veículos
 [veiculos_02-2026.xlsx alteração.xlsx](https://github.com/user-attachments/files/26839023/veiculos_02-2026.xlsx.alteracao.xlsx)
 <img width="657" height="433" alt="image" src="https://github.com/user-attachments/assets/082cb7a5-f68d-4eb5-ae50-dd6d15078f76" />
+
+## Power BI - Dashboard Despesa Por Função 2026 - 23/04/2026
