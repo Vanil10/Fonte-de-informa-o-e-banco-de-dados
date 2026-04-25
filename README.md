@@ -37,3 +37,5 @@ https://docs.google.com/spreadsheets/d/1_13k3Lewf_da11MbKfmc78zduNNKjTSN/edit?us
 <img width="657" height="433" alt="image" src="https://github.com/user-attachments/assets/082cb7a5-f68d-4eb5-ae50-dd6d15078f76" />
 
 ## Power BI - Dashboard Despesa Por Função 2026 - 23/04/2026
+https://github.com/Vanil10/Fonte-de-informa-o-e-banco-de-dados/blob/main/Dashboard%20Despesas%202026.pbix
+<img width="1314" height="741" alt="Captura de tela 2026-04-24 210647" src="https://github.com/user-attachments/assets/42fa8d8d-85d6-4d3c-be39-36b5637cb313" />
