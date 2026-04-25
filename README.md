@@ -41,3 +41,5 @@ https://github.com/Vanil10/Fonte-de-informa-o-e-banco-de-dados/blob/main/Dashboa
 <img width="1314" height="741" alt="Captura de tela 2026-04-24 210647" src="https://github.com/user-attachments/assets/42fa8d8d-85d6-4d3c-be39-36b5637cb313" />
 
 ## Power BI - Dashboard Matrículas Dados Abertos - 24/04/2026
+https://github.com/Vanil10/Fonte-de-informa-o-e-banco-de-dados/blob/main/Matr%C3%ADculas%20-%20Dados%20Abertos%20SP.pbix
+<img width="1313" height="741" alt="Captura de tela 2026-04-24 220151" src="https://github.com/user-attachments/assets/963bf53f-b172-4590-9fb5-6ac9be5cdd24" />
