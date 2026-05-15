@@ -47,3 +47,7 @@ https://github.com/Vanil10/Fonte-de-informa-o-e-banco-de-dados/blob/main/Dashboa
 ## Power BI - Dashboard Matrículas Dados Abertos - 24/04/2026
 https://github.com/Vanil10/Fonte-de-informa-o-e-banco-de-dados/blob/main/Matr%C3%ADculas%20-%20Dados%20Abertos%20SP.pbix
 <img width="1313" height="741" alt="Captura de tela 2026-04-24 220151" src="https://github.com/user-attachments/assets/963bf53f-b172-4590-9fb5-6ac9be5cdd24" />
+
+## Gráfico de tendencia - dispersão - 14/05/2026
+[Ice Cream Sales - temperatures.xlsx](https://github.com/user-attachments/files/27782178/Ice.Cream.Sales.-.temperatures.xlsx)
+<img width="799" height="544" alt="Captura de tela 2026-05-14 211548" src="https://github.com/user-attachments/assets/e9cbe01d-1402-4242-9ad3-75f391f716a6" />
