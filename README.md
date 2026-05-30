@@ -51,3 +51,9 @@ https://github.com/Vanil10/Fonte-de-informa-o-e-banco-de-dados/blob/main/Matr%C3
 ## Gráfico de tendencia - dispersão - 14/05/2026
 [Ice Cream Sales - temperatures.xlsx](https://github.com/user-attachments/files/27782178/Ice.Cream.Sales.-.temperatures.xlsx)
 <img width="799" height="544" alt="Captura de tela 2026-05-14 211548" src="https://github.com/user-attachments/assets/e9cbe01d-1402-4242-9ad3-75f391f716a6" />
+
+## Avaliação 29/05/2026
+[piesp_captados.csv](https://github.com/user-attachments/files/28413898/piesp_captados.csv)
+[dic_variaveis_piesp_captados.csv](https://github.com/user-attachments/files/28413903/dic_variaveis_piesp_captados.csv)
+[piesp_captados.xlsx](https://github.com/user-attachments/files/28413905/piesp_captados.xlsx)
+<img width="1315" height="740" alt="Captura de tela 2026-05-29 235946" src="https://github.com/user-attachments/assets/058c7930-97a3-489c-b13f-d5ae086429e4" />
