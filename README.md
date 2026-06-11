@@ -57,6 +57,12 @@ https://github.com/Vanil10/Fonte-de-informa-o-e-banco-de-dados/blob/main/Matr%C3
 [Ice Cream Sales - temperatures.xlsx](https://github.com/user-attachments/files/27782178/Ice.Cream.Sales.-.temperatures.xlsx)
 <img width="799" height="544" alt="Captura de tela 2026-05-14 211548" src="https://github.com/user-attachments/assets/e9cbe01d-1402-4242-9ad3-75f391f716a6" />
 
+## Cerveja / Sorvete
+[Consumo_cerveja.xlsx](https://github.com/user-attachments/files/28858791/Consumo_cerveja.xlsx)
+[Pasta2.xlsx](https://github.com/user-attachments/files/28858834/Pasta2.xlsx)
+[Ice Cream Sales - temperatures.xlsx](https://github.com/user-attachments/files/28858815/Ice.Cream.Sales.-.temperatures.xlsx)
+<img width="1316" height="742" alt="Captura de tela 2026-06-11 202806" src="https://github.com/user-attachments/assets/8445a115-fddc-4a1a-bf0e-1b20f850ee00" />
+
 ## Avaliação 29/05/2026
 [piesp_captados.csv](https://github.com/user-attachments/files/28413898/piesp_captados.csv)
 [dic_variaveis_piesp_captados.csv](https://github.com/user-attachments/files/28413903/dic_variaveis_piesp_captados.csv)
